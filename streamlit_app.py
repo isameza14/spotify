@@ -6,7 +6,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 csv_path = os.path.join(current_dir, "playlists.csv")
 
 st.markdown("# Rediscover Your Middle School Hits")
-st.write("Hey there! Remember your middle school days? Select the years you were in school and I'll serve up a Spotify playlist featuring the top hits from that era.")
+st.write("Hey there! Remember your middle school days? Select the years you were in school and I'll create a Spotify playlist featuring the top hits from that era.")
 
 df = pd.read_csv(csv_path)
 year_range = st.slider("Select your middle school years:", min_value=1958, max_value=2022, value=(1995, 2010))

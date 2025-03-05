@@ -1,6 +1,6 @@
 # Rediscover Your Middle School Hits
 
-#### Video Demo: [https://youtu.be/YourVideoDemoURL](https://youtu.be/YourVideoDemoURL)
+#### Video Demo: https://www.youtube.com/watch?v=W8CWST8HlU0
 
 #### Team Members: Isabela Meza and Amelia Jorge
 
